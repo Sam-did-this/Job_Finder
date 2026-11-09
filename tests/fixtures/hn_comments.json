@@ -1,0 +1,6 @@
+{"nbPages": 1, "hits": [
+ {"objectID": "301", "parent_id": 200, "created_at": "2026-11-02T10:00:00Z",
+  "comment_text": "Acme | Remote | Python dev<p>Salary $100k-$140k. Apply at jobs@acme.test"},
+ {"objectID": "302", "parent_id": 301, "created_at": "2026-11-02T11:00:00Z", "comment_text": "a reply, not a job"},
+ {"objectID": "303", "parent_id": 200, "created_at": "2026-11-02T12:00:00Z", "comment_text": null}
+]}

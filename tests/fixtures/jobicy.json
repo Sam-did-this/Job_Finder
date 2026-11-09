@@ -1,0 +1,21 @@
+{
+  "apiVersion": "2.0",
+  "jobs": [
+    {
+      "id": 1,
+      "url": "https://jobicy.com/jobs/1-python-developer",
+      "jobTitle": "Python Developer",
+      "companyName": "Sample Co",
+      "jobIndustry": ["Engineering"],
+      "jobType": ["Full-Time"],
+      "jobGeo": "LATAM",
+      "jobLevel": "Junior",
+      "jobExcerpt": "Build things",
+      "jobDescription": "<p>Python work for a small team.</p>",
+      "pubDate": "2026-11-05 10:00:00",
+      "salaryMin": 50000,
+      "salaryMax": 70000,
+      "salaryCurrency": "USD"
+    }
+  ]
+}

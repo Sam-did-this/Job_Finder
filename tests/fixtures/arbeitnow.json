@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "slug": "python-developer-1",
+      "company_name": "Beispiel GmbH",
+      "title": "Python Developer (m/w/d)",
+      "description": "<p>Remote Python work.</p>",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/beispiel/python-developer-1",
+      "tags": ["Python"],
+      "job_types": ["full time"],
+      "location": "Berlin",
+      "created_at": 1794000000
+    },
+    {
+      "slug": "onsite-2",
+      "company_name": "Vor Ort AG",
+      "title": "Onsite Developer",
+      "description": "<p>In the office.</p>",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vor-ort/onsite-2",
+      "tags": [],
+      "job_types": [],
+      "location": "Munich",
+      "created_at": 1794000000
+    }
+  ]
+}

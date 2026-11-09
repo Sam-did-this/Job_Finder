@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <author><name>/u/someone</name></author>
+    <content type="html">&lt;p&gt;Need a python script to merge and clean CSV files.&lt;/p&gt;</content>
+    <id>t3_abc</id>
+    <link href="https://www.reddit.com/r/forhire/comments/abc/hiring_python_script/"/>
+    <updated>2026-11-07T18:00:00+00:00</updated>
+    <title>[HIRING] Python script to clean CSV files - $200</title>
+  </entry>
+  <entry>
+    <author><name>/u/dev_for_hire</name></author>
+    <content type="html">&lt;p&gt;Available for work.&lt;/p&gt;</content>
+    <id>t3_def</id>
+    <link href="https://www.reddit.com/r/forhire/comments/def/for_hire_dev/"/>
+    <updated>2026-11-07T19:00:00+00:00</updated>
+    <title>[FOR HIRE] Full-stack dev available</title>
+  </entry>
+</feed>

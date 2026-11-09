@@ -1,0 +1,22 @@
+========================================================================
+JOB FINDER  2026-11-08 20:43
+5 matched, showing 5 | 0 new | 2 top matches | profile: python
+========================================================================
+
+ 1. Junior Python Automation Developer  TOP
+    Northwind Labs - Remotive · 5d ago  [score 13]
+    https://example.com/demo/1
+    id: 9db7fb17
+
+ 2. Freelance: Python script to clean CSV exports  TOP
+    r/forhire post - r/forhire · 3d ago  [score 9]
+    https://example.com/demo/4
+    id: bb9f1bba
+
+ 3. Acme Corp | Remote | Django developer
+    Acme Corp - HN Who's Hiring · 12d ago  [score 5]
+    https://example.com/demo/6
+    id: 53cea3be
+
+ 4. LLM Prompt Engineer  AI
+    Hooli AI - Jobicy · 60d ago  [score -1]

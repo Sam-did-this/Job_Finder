@@ -1,0 +1,28 @@
+# job-finder configuration. Every key is optional; delete what you don't need.
+# Location: run `job-finder init-config` to create this file in the right place.
+
+[general]
+output_dir = "~/Documents"      # where bare `-o name.md` files are saved
+max_results = 50
+timeout = 15                    # seconds per request
+workers = 6                     # sources fetched in parallel
+
+[search]
+profile = "python"              # dev | python | security | ai | latam | gigs | your own below
+exclude = ["unpaid", "commission only"]
+# sources = ["remotive", "remoteok", "wwr", "hn-hiring", "hn-freelance"]
+
+[sources]
+reddit_subreddits = ["forhire", "PythonJobs"]
+jobicy_tag = "python"
+adzuna_where = "New York"       # needs ADZUNA_APP_ID and ADZUNA_APP_KEY env vars
+craigslist_city = "newyork"     # craigslist is opt-in: --sources craigslist
+craigslist_subarea = "que"      # mnh, brx, brk, que, stn
+
+# Define your own profile. `include` = keywords you want, `boost` = nice-to-have,
+# `penalize` = ranks lower, `exclude` = hide entirely.
+[profiles.freelance-python]
+include  = ["python", "django", "fastapi", "automation", "scraping", "scripting"]
+boost    = ["freelance", "contract", "part-time", "junior", "entry level", "gig"]
+penalize = ["senior", "staff", "principal", "10+ years"]
+exclude  = ["unpaid"]

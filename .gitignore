@@ -1,4 +1,26 @@
-job_finder_history.json
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# Local data: never commit these
+*.db
+*.sqlite3
 job_finder_pro_history.json
+config.toml
+.env
+reports/
+*.local.*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

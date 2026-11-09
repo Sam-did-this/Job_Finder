@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Python Job Board</title>
+    <item>
+      <title>Junior Python Developer at Sample Co</title>
+      <link>https://www.python.org/jobs/9999/</link>
+      <description>&lt;p&gt;Remote-friendly Python role.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

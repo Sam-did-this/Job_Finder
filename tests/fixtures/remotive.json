@@ -1,0 +1,7 @@
+{"jobs": [
+ {"title": "Python Developer", "url": "https://remotive.com/job/1", "company_name": "Acme", "tags": ["python", "api"],
+  "description": "<p>Build APIs. We pay $90k-$120k. Please email us.</p>", "publication_date": "2026-11-07T10:00:00",
+  "candidate_required_location": "Worldwide", "salary": ""},
+ {"title": "Office Manager", "url": "https://remotive.com/job/2", "company_name": "Foo", "tags": [],
+  "description": "<p>We maintain our offices.</p>", "publication_date": "2026-11-01T10:00:00"}
+]}
