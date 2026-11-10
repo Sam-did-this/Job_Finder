@@ -8,7 +8,7 @@
 
 ![Sample HTML report](docs/report.png)
 
-Job boards bury you in noise. Job Finder Pro pulls from public APIs and feeds in parallel, ranks each listing against a profile (e.g. *junior Python / freelance*), hides what you've already seen, and writes a clean report you can read in the terminal, open in a browser, or drop into a spreadsheet.
+Job boards bury you in noise. Job Finder pulls from public APIs and feeds in parallel, ranks each listing against a profile (e.g. *junior Python / freelance*), hides what you've already seen, and writes a clean report you can read in the terminal, open in a browser, or drop into a spreadsheet.
 
 ## Features
 
