@@ -11,7 +11,7 @@ from urllib3.util.retry import Retry
 from job_finder import __version__
 from job_finder.config import Config
 
-USER_AGENT = f"job-finder/{__version__} (+https://github.com/Sam-did-this/job-search-tools)"
+USER_AGENT = f"job-finder/{__version__} (+https://github.com/Sam-did-this/Job_Finder)"
 
 
 class Client:

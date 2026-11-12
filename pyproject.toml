@@ -31,7 +31,7 @@ dev = ["pytest>=8", "ruff>=0.5"]
 job-finder = "job_finder.cli:main"
 
 [project.urls]
-Repository = "https://github.com/Sam-did-this/job-search-tools"
+Repository = "https://github.com/Sam-did-this/Job_Finder"
 
 [tool.setuptools.packages.find]
 where = ["src"]

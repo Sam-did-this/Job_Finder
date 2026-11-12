@@ -1,6 +1,6 @@
 # Job Finder
 
-[![CI](https://github.com/Sam-did-this/job-search-tools/actions/workflows/ci.yml/badge.svg)](https://github.com/Sam-did-this/job-search-tools/actions/workflows/ci.yml)
+[![CI](https://github.com/Sam-did-this/Job_Finder/actions/workflows/ci.yml/badge.svg)](https://github.com/Sam-did-this/Job_Finder/actions/workflows/ci.yml)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -27,8 +27,8 @@ Job boards bury you in noise. Job Finder pulls from public APIs and feeds in par
 Requires Python 3.11+.
 
 ```bash
-git clone https://github.com/Sam-did-this/job-search-tools.git
-cd job-search-tools
+git clone https://github.com/Sam-did-this/Job_Finder.git
+cd Job_Finder
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
@@ -195,7 +195,7 @@ ntfy topics are public by name, so choose a long random one.
 # job-finder.service
 [Service]
 Type=oneshot
-ExecStart=%h/job-search-tools/.venv/bin/job-finder -p python --since 1d --new-only -o jobs.md
+ExecStart=%h/Job_Finder/.venv/bin/job-finder -p python --since 1d --new-only -o jobs.md
 
 # job-finder.timer
 [Timer]
